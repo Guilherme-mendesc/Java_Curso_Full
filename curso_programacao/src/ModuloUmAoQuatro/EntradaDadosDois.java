@@ -1,3 +1,4 @@
+package ModuloUmAoQuatro;
 import java.util.Scanner;
 
 public class EntradaDadosDois {
