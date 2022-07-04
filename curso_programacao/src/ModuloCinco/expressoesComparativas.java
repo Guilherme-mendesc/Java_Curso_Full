@@ -1,6 +1,18 @@
-package ModuloCincoAoOito;
+package ModuloCinco;
 
 public class expressoesComparativas {
+	
+	// Expressoes matematicas
+	// + Adição
+		// - subtração
+		// * Multiplicacao
+		// / Divisão
+		// % mod (devide e retorna o resto  a % b= 2 para trabalhar com o retorno)	
+		// ++ incremento
+		// -- decremento
+	
+	//---------------------------------------------------------
+	
 	
 	// Expressoes Comprativas 
 	//   >   Maior
@@ -14,7 +26,7 @@ public class expressoesComparativas {
 	
 	// Expressoes Lógicas
 	
-	//&& E
+	// && E
 	// || OU
 	// ! NÃO
 	

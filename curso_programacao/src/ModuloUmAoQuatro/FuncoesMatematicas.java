@@ -6,6 +6,16 @@ public class FuncoesMatematicas {
 	// A= Math.pow(x, y); -> Variavel A recebe o resultado de x elevado a y 
 	// A= Math.abs(x); -> Variavel A recebe o valor absoluto de x
 	
+	// + Adição
+	// - subtração
+	// * Multiplicacao
+	// / Divisão
+	// % modulo (devide e retorna o resto  a % b= 2 para trabalhar com o retorno)	
+	// ++ incremento
+	// -- decremento
+	
+	
+	
 	public static void main(String[] args) {
 		
 		double x =3.0;

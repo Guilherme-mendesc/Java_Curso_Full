@@ -1,4 +1,4 @@
-package ExerciciosModCintoAoOito;
+package ExerciciosModCinco;
 
 import java.util.Locale;
 import java.util.Scanner;

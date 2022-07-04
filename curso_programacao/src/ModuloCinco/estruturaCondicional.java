@@ -1,4 +1,4 @@
-package ModuloCincoAoOito;
+package ModuloCinco;
 
 import java.util.Scanner;
 
