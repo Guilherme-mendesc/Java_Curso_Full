@@ -1,4 +1,4 @@
-package application;
+package ExerciciosFixacao;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -20,7 +20,7 @@ public class ExercicioFixacao10 {
 		double[] nota2 = new double[n];
 		
 		for(int i =0; i<n; i++) {
-			System.out.println("Digite o nome e primeira e segunda nota do "+(i+1)+ "° aluno ");
+			System.out.println("Digite o nome e primeira e segunda nota do "+(i+1)+ "ï¿½ aluno ");
 			sc.nextLine();
 			nome[i]=sc.next();
 				nota1[i] = sc.nextDouble();

@@ -1,4 +1,4 @@
-package application;
+package ExerciciosFixacao;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -12,7 +12,7 @@ public class ExercicioFixacao8 {
 		int n, somaPares=0, quantidadePares=0;
 		double mediaPares;
 		
-		System.out.println("Quantos numeros voce irá digitar: ");
+		System.out.println("Quantos numeros voce irï¿½ digitar: ");
 		n=sc.nextInt();
 		
 		int[] vetor= new int[n];
